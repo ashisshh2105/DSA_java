@@ -8,8 +8,8 @@
 | **Solved On** | September 23, 2026 |
 | **Tags** | Array, Sorting |
 | **Link** | [View Problem](https://leetcode.com/problems/third-maximum-number/) |
-| **Runtime** | 3 ms |
-| **Memory** | 44.6 MB |
+| **Runtime** | 6 ms |
+| **Memory** | 45.2 MB |
 
 ## Problem Description
 
