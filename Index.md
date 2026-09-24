@@ -11,6 +11,7 @@ All solved problems organized by pattern/category.
 - [Find the Occurrence of First Almost Equal Substring](./LeetCode/Hard/Find%20the%20Occurrence%20of%20First%20Almost%20Equal%20Substring) - *Hard*
 
 ## Arrays & Hashing
+- [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) - *Easy*
 - [Find Numbers with Even Number of Digits](./LeetCode/Easy/Find%20Numbers%20with%20Even%20Number%20of%20Digits) - *Easy*
 - [Replace Elements with Greatest Element on Right Side](./LeetCode/Easy/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side) - *Easy*
 - [Height Checker](./LeetCode/Easy/Height%20Checker) - *Easy*
