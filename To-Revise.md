@@ -10,3 +10,4 @@ Check these off as you review them!
 - [ ] **Squares of a Sorted Array** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array)
 - [ ] **Find Pivot Index** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Find%20Pivot%20Index)
 - [ ] **Max Consecutive Ones** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Max%20Consecutive%20Ones)
+- [ ] **Relative Sort Array** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Relative%20Sort%20Array)
