@@ -11,6 +11,7 @@ All solved problems organized by pattern/category.
 - [Find the Occurrence of First Almost Equal Substring](./LeetCode/Hard/Find%20the%20Occurrence%20of%20First%20Almost%20Equal%20Substring) - *Hard*
 
 ## Arrays & Hashing
+- [Relative Sort Array](./LeetCode/Easy/Relative%20Sort%20Array) - *Easy*
 - [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) - *Easy*
 - [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) - *Easy*
 - [Find Numbers with Even Number of Digits](./LeetCode/Easy/Find%20Numbers%20with%20Even%20Number%20of%20Digits) - *Easy*
