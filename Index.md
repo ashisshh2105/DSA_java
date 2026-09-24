@@ -11,6 +11,7 @@ All solved problems organized by pattern/category.
 - [Find the Occurrence of First Almost Equal Substring](./LeetCode/Hard/Find%20the%20Occurrence%20of%20First%20Almost%20Equal%20Substring) - *Hard*
 
 ## Arrays & Hashing
+- [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) - *Easy*
 - [Relative Sort Array](./LeetCode/Easy/Relative%20Sort%20Array) - *Easy*
 - [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) - *Easy*
 - [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) - *Easy*
