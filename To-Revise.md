@@ -9,3 +9,4 @@ Check these off as you review them!
 - [ ] **Find Numbers with Even Number of Digits** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Find%20Numbers%20with%20Even%20Number%20of%20Digits)
 - [ ] **Squares of a Sorted Array** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array)
 - [ ] **Find Pivot Index** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Find%20Pivot%20Index)
+- [ ] **Max Consecutive Ones** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Max%20Consecutive%20Ones)
