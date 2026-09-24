@@ -12,3 +12,4 @@ Check these off as you review them!
 - [ ] **Max Consecutive Ones** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Max%20Consecutive%20Ones)
 - [ ] **Relative Sort Array** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Relative%20Sort%20Array)
 - [ ] **Find All Numbers Disappeared in an Array** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
+- [ ] **Sort Array By Parity** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Sort%20Array%20By%20Parity)
