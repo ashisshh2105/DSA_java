@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Lucky Numbers in a Matrix](./LeetCode/Easy/Lucky%20Numbers%20in%20a%20Matrix) - *Easy*
 - [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) - *Easy*
 - [Reverse Array](./GeeksForGeeks/Easy/Reverse%20Array) - *Easy*
 - [Count Binary Substrings](./LeetCode/Easy/Count%20Binary%20Substrings) - *Easy*
