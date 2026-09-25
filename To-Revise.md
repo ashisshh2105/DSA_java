@@ -16,3 +16,4 @@ Check these off as you review them!
 - [ ] **Matrix Diagonal Sum** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Matrix%20Diagonal%20Sum)
 - [ ] **Reshape the Matrix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Reshape%20the%20Matrix)
 - [ ] **Lucky Numbers in a Matrix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Lucky%20Numbers%20in%20a%20Matrix)
+- [ ] **Toeplitz Matrix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Toeplitz%20Matrix)
