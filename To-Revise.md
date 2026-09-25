@@ -15,3 +15,4 @@ Check these off as you review them!
 - [ ] **Sort Array By Parity** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Sort%20Array%20By%20Parity)
 - [ ] **Matrix Diagonal Sum** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Matrix%20Diagonal%20Sum)
 - [ ] **Reshape the Matrix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Reshape%20the%20Matrix)
+- [ ] **Lucky Numbers in a Matrix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Lucky%20Numbers%20in%20a%20Matrix)
