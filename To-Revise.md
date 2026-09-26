@@ -21,3 +21,4 @@ Check these off as you review them!
 - [ ] **Flipping an Image** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Flipping%20an%20Image)
 - [ ] **Image Smoother** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Image%20Smoother)
 - [ ] **Projection Area of 3D Shapes** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Projection%20Area%20of%203D%20Shapes)
+- [ ] **Count Negative Numbers in a Sorted Matrix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix)
