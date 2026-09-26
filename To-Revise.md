@@ -18,3 +18,4 @@ Check these off as you review them!
 - [ ] **Lucky Numbers in a Matrix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Lucky%20Numbers%20in%20a%20Matrix)
 - [ ] **Toeplitz Matrix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Toeplitz%20Matrix)
 - [ ] **Special Positions in a Binary Matrix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix)
+- [ ] **Flipping an Image** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Flipping%20an%20Image)
