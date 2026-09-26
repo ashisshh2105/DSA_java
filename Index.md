@@ -12,6 +12,7 @@ All solved problems organized by pattern/category.
 - [Find the Occurrence of First Almost Equal Substring](./LeetCode/Hard/Find%20the%20Occurrence%20of%20First%20Almost%20Equal%20Substring) - *Hard*
 
 ## Arrays & Hashing
+- [Projection Area of 3D Shapes](./LeetCode/Easy/Projection%20Area%20of%203D%20Shapes) - *Easy*
 - [Image Smoother](./LeetCode/Easy/Image%20Smoother) - *Easy*
 - [Flipping an Image](./LeetCode/Easy/Flipping%20an%20Image) - *Easy*
 - [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) - *Easy*
