@@ -20,3 +20,4 @@ Check these off as you review them!
 - [ ] **Special Positions in a Binary Matrix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix)
 - [ ] **Flipping an Image** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Flipping%20an%20Image)
 - [ ] **Image Smoother** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Image%20Smoother)
+- [ ] **Projection Area of 3D Shapes** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Projection%20Area%20of%203D%20Shapes)
