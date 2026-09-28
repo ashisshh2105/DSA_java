@@ -23,3 +23,4 @@ Check these off as you review them!
 - [ ] **Projection Area of 3D Shapes** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Projection%20Area%20of%203D%20Shapes)
 - [ ] **Count Negative Numbers in a Sorted Matrix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix)
 - [ ] **Search a 2D Matrix** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Search%20a%202D%20Matrix)
+- [ ] **Spiral Matrix** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Spiral%20Matrix)
