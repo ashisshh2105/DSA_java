@@ -24,3 +24,4 @@ Check these off as you review them!
 - [ ] **Count Negative Numbers in a Sorted Matrix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix)
 - [ ] **Search a 2D Matrix** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Search%20a%202D%20Matrix)
 - [ ] **Spiral Matrix** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Spiral%20Matrix)
+- [ ] **Set Matrix Zeroes** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Set%20Matrix%20Zeroes)
