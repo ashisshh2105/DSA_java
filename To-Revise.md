@@ -25,3 +25,4 @@ Check these off as you review them!
 - [ ] **Search a 2D Matrix** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Search%20a%202D%20Matrix)
 - [ ] **Spiral Matrix** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Spiral%20Matrix)
 - [ ] **Set Matrix Zeroes** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Set%20Matrix%20Zeroes)
+- [ ] **Rotate Image** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Rotate%20Image)
