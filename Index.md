@@ -40,3 +40,6 @@ All solved problems organized by pattern/category.
 - [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) - *Easy*
 - [Min and Max in Array](./GeeksForGeeks/Easy/Min%20and%20Max%20in%20Array) - *Easy*
 - [Reverse Array](./GeeksForGeeks/Easy/Reverse%20Array) - *Easy*
+
+## String
+- [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
