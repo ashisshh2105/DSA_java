@@ -26,3 +26,4 @@ Check these off as you review them!
 - [ ] **Spiral Matrix** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Spiral%20Matrix)
 - [ ] **Set Matrix Zeroes** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Set%20Matrix%20Zeroes)
 - [ ] **Rotate Image** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Rotate%20Image)
+- [ ] **Reverse String** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Reverse%20String)
