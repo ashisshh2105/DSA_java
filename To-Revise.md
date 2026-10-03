@@ -33,3 +33,4 @@ Check these off as you review them!
 - [ ] **Buddy Strings** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Buddy%20Strings)
 - [ ] **Detect Capital** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Detect%20Capital)
 - [ ] **Long Pressed Name** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Long%20Pressed%20Name)
+- [ ] **Goat Latin** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Goat%20Latin)
