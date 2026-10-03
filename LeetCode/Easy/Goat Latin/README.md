@@ -8,8 +8,8 @@
 | **Solved On** | October 3, 2026 |
 | **Tags** | String |
 | **Link** | [View Problem](https://leetcode.com/problems/goat-latin/) |
-| **Runtime** | 6 ms |
-| **Memory** | 44.4 MB |
+| **Runtime** | 5 ms |
+| **Memory** | 44.3 MB |
 
 ## Problem Description
 
