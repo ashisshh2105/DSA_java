@@ -42,6 +42,7 @@ All solved problems organized by pattern/category.
 - [Reverse Array](./GeeksForGeeks/Easy/Reverse%20Array) - *Easy*
 
 ## String
+- [Detect Capital](./LeetCode/Easy/Detect%20Capital) - *Easy*
 - [Buddy Strings](./LeetCode/Easy/Buddy%20Strings) - *Easy*
 - [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) - *Easy*
 - [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) - *Easy*
