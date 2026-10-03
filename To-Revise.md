@@ -32,3 +32,4 @@ Check these off as you review them!
 - [ ] **Isomorphic Strings** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Isomorphic%20Strings)
 - [ ] **Buddy Strings** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Buddy%20Strings)
 - [ ] **Detect Capital** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Detect%20Capital)
+- [ ] **Long Pressed Name** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Long%20Pressed%20Name)
