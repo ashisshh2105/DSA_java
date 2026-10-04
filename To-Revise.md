@@ -35,3 +35,4 @@ Check these off as you review them!
 - [ ] **Long Pressed Name** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Long%20Pressed%20Name)
 - [ ] **Goat Latin** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Goat%20Latin)
 - [ ] **Reverse Only Letters** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Reverse%20Only%20Letters)
+- [ ] **Valid Palindrome** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Valid%20Palindrome)
