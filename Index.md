@@ -42,6 +42,7 @@ All solved problems organized by pattern/category.
 - [Reverse Array](./GeeksForGeeks/Easy/Reverse%20Array) - *Easy*
 
 ## String
+- [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) - *Easy*
 - [Reverse Only Letters](./LeetCode/Easy/Reverse%20Only%20Letters) - *Easy*
 - [Goat Latin](./LeetCode/Easy/Goat%20Latin) - *Easy*
 - [Long Pressed Name](./LeetCode/Easy/Long%20Pressed%20Name) - *Easy*
