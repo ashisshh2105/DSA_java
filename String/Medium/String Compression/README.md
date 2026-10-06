@@ -9,7 +9,7 @@
 | **Tags** | Two Pointers, String |
 | **Link** | [View Problem](https://leetcode.com/problems/string-compression/) |
 | **Runtime** | 1 ms |
-| **Memory** | 45.1 MB |
+| **Memory** | 45.5 MB |
 
 ## Problem Description
 
