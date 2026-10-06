@@ -8,8 +8,8 @@
 | **Solved On** | October 6, 2026 |
 | **Tags** | Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm |
 | **Link** | [View Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
-| **Runtime** | 2 ms |
-| **Memory** | 42.9 MB |
+| **Runtime** | 1 ms |
+| **Memory** | 43.1 MB |
 
 ## Problem Description
 
