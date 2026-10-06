@@ -42,6 +42,7 @@ All solved problems organized by pattern/category.
 - [Reverse Array](./GeeksForGeeks/Easy/Reverse%20Array) - *Easy*
 
 ## String
+- [Backspace String Compare](./LeetCode/Easy/Backspace%20String%20Compare) - *Easy*
 - [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) - *Easy*
 - [String Compression](./LeetCode/Medium/String%20Compression) - *Medium*
 - [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) - *Easy*
