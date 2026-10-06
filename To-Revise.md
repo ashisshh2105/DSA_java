@@ -37,3 +37,4 @@ Check these off as you review them!
 - [ ] **Reverse Only Letters** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Reverse%20Only%20Letters)
 - [ ] **Valid Palindrome** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Valid%20Palindrome)
 - [ ] **Longest Common Prefix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Longest%20Common%20Prefix)
+- [ ] **String Compression** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/String%20Compression)
