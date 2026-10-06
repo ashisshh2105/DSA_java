@@ -42,6 +42,7 @@ All solved problems organized by pattern/category.
 - [Reverse Array](./GeeksForGeeks/Easy/Reverse%20Array) - *Easy*
 
 ## String
+- [String Compression](./LeetCode/Medium/String%20Compression) - *Medium*
 - [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) - *Easy*
 - [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) - *Easy*
 - [Reverse Only Letters](./LeetCode/Easy/Reverse%20Only%20Letters) - *Easy*
