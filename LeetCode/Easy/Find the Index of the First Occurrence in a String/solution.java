@@ -3,14 +3,7 @@ class Solution {
 
         for (int i = 0; i <= haystack.length() - needle.length(); i++) {
 
-            int j = 0;
-
-            while (j < needle.length() &&
-                   haystack.charAt(i + j) == needle.charAt(j)) {
-                j++;
-            }
-
-            if (j == needle.length()) {
+            if (haystack.substring(i, i + needle.length()).equals(needle)) {
                 return i;
             }
         }
