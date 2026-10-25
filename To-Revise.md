@@ -40,3 +40,4 @@ Check these off as you review them!
 - [ ] **String Compression** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/String%20Compression)
 - [ ] **Find the Index of the First Occurrence in a String** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)
 - [ ] **Backspace String Compare** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Backspace%20String%20Compare)
+- [ ] **Minimum Platforms** (GeeksForGeeks - Medium) | [View Solution](./GeeksForGeeks/Medium/Minimum%20Platforms)
